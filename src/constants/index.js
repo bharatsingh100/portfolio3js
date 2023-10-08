@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    unthinkable,
+    idfc,
+    raghu,
   } from "../assets";
   
   export const navLinks = [
@@ -116,11 +119,11 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Software Developer",
+      company_name: "IDFC First Bank",
+      icon: idfc,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "July 2022 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,42 +132,27 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Software Development Intern",
+      company_name: "Unthinkable Solutions",
+      icon: unthinkable,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Nov 2021 - Jun 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Learned Java and Spring Boot. Developed Rest API. Learned about microservice architecture, working with Eureka Discovery server",
+        "General training on Javascript, HTML, CSS and soft skills",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      title: "Web Developer Intern",
+      company_name: "Raghu Technologies",
+      icon: raghu,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "July 2020 - Sep 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed web Application that connect patients with doctors online using React.js and Firebase",
+        "Collaborated with team members to design and develop application in react using agile best practices",
+        "Configured Firebase services like Authentication and Storage to use in application",
+        "Presented the appliation progress to stakeholder after every sprint",
       ],
     },
   ];

@@ -25,6 +25,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import idfc from "./company/idfc.png";
+import unthinkable from "./company/unthinkable.png"; 
+import raghu from "./company/raghu.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +62,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  unthinkable,
+  idfc,
+  raghu,
 };
