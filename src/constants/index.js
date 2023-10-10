@@ -26,6 +26,9 @@ import {
     unthinkable,
     idfc,
     raghu,
+    sql,
+    java,
+    spring,
   } from "../assets";
   
   export const navLinks = [
@@ -64,6 +67,26 @@ import {
   
   const technologies = [
     {
+      name: "JavaScript",
+      icon: javascript,
+    },
+    {
+      name: "Java",
+      icon: java,
+    },
+    {
+      name: "Spring Boot",
+      icon: spring,
+    },
+    {
+      name: "React JS",
+      icon: reactjs,
+    },
+    {
+      name: "Node JS",
+      icon: nodejs,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -72,44 +95,16 @@ import {
       icon: css,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
+      name: "SQL",
+      icon: sql,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
+    // {
+    //   name: "Three JS",
+    //   icon: threejs,
+    // },
     {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
     },
     {
       name: "docker",
