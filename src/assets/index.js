@@ -35,6 +35,9 @@ import raghu from "./company/raghu.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import ecolive from "./ecolive.png";
+import stock_app from "./stock_app.png";
+import github_bot from "./github_bot.png"
 
 export {
   logo,
@@ -71,4 +74,7 @@ export {
   sql,
   java,
   spring,
+  github_bot,
+  stock_app,
+  ecolive,
 };

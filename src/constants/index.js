@@ -29,6 +29,9 @@ import {
     sql,
     java,
     spring,
+    ecolive,
+    github_bot,
+    stock_app,
   } from "../assets";
   
   export const navLinks = [
@@ -181,66 +184,62 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Doctor Online",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web Application to connect patients with doctors online, it has 3 different dashboards for 3 types of users patients, doctors and admin",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "firebase",
           color: "green-text-gradient",
         },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: ecolive,
+      source_code_link: "https://github.com/bharatsingh100/rt-ecolive",
     },
     {
-      name: "Job IT",
+      name: "Stock Data App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application to display stock data on charts, and allows users to compare different stocks based on high, low and opening values",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "material-ui",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "restApi",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: stock_app,
+      source_code_link: "https://github.com/bharatsingh100/stock-data",
     },
     {
-      name: "Trip Guide",
+      name: "Github Bot",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A github bot to send automated messages on new issues and pull requests raised, to help maintainers of project save time",
       tags: [
         {
-          name: "nextjs",
+          name: "typescript",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "githubApi",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "automation",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: github_bot,
       source_code_link: "https://github.com/",
     },
   ];
