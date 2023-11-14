@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I'm a skilled software developer with experience in Java and
-        JavaScript, and expertise in frameworks like Spring Boot, React.js, and
+        JavaScript, and frameworks like Spring Boot, React.js, and
         Three.js. I'm a quick learner and collaborate closely with stakeholders to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
