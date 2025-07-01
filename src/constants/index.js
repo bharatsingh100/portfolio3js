@@ -136,8 +136,8 @@ import {
       iconBg: "#E6DEDD",
       date: "Nov 2021 - Jun 2022",
       points: [
-        "Learned Java and Spring Boot. Developed Rest API. Learned about microservice architecture, working with Eureka Discovery server",
-        "General training on Javascript, HTML, CSS and soft skills",
+        "Contributed to the development of Betterplace’s Oust MPower product, focusing on backend functionalities using Java and Spring Boot.",
+        " Acquired expertise in implementing Design Patterns and specifically the(MVC) architecture"
       ],
     },
     {
